@@ -1,0 +1,166 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+#css-zen-garden { 
+background-color: salmon;
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 100px;
+    margin: 0px auto;
+    font-family: "Architects Daughter";
+    background-image: url("https://3f0861b6bc98c08770be-789248f0448453b835406008213ad4a2.ssl.cf2.rackcdn.com/cover_photo_149077_1407727531.jpg");
+}
+h2 {
+
+    font-size: 40px;
+    font-family:"Architects Daughter";
+    margin-left: 500px;
+}
+#zen-summary {
+    font-family:"Architects Daughter";
+   float: right;
+    width: 600px;
+    height: 100px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    border: 2px solid salmon;
+    background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+
+}
+#zen-preamble {
+     font-family:"Architects Daughter";
+    float: right;
+    width: 600px;
+    height: 300px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+     padding-left: 50px;
+    border: 2px solid salmon;
+ background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+}
+#zen-explanation { 
+     font-family:"Architects Daughter";
+    float: right;
+    margin-right: 200px;
+    margin-bottom: 10px;
+     padding-left: 50px;
+    width: 600px;
+     border: 2px solid salmon; 
+     background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+}
+#zen-participation {
+     font-family:"Architects Daughter";
+    float: right;
+    margin-right: 200px;
+    margin-bottom: 10px;
+     padding-left: 50px;
+    width: 600px;
+     border: 2px solid salmon;
+     background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+}
+#zen-benefits {
+     font-family:"Architects Daughter";
+   float: right;
+ margin-right: 200px;
+    margin-bottom: 10px;
+     padding-left: 50px;
+    width: 600px;
+     border: 2px solid salmon;
+     background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+}
+#zen-requirements {
+     font-family:"Architects Daughter";
+    float: right;
+  margin-right: 200px;
+    margin-bottom: 30px;
+     padding-left: 50px;
+    width: 600px;
+     border: 2px solid salmon;
+     background-image: url("https://ih1.redbubble.net/image.160235446.3939/flat,800x800,075,t.jpg");
+}
+body {
+    background-image: url("http://i.imgur.com/Xu3y2IV.png");
+}
+.sidebar {
+    border: 3px solid salmon;
+    float: right;
+    position: absolute;
+    background-color:  #ff99dd;
+    height: 1000px;
+    width: 300px;
+    margin-left: 50px;
+}
+footer {
+position: absolute;
+background-color: pink;
+margin-top: 2000px;
+margin-left: 393px;
+padding: 10px 240px 0px 245px;
+text-align: center;
+font-size: 16px;
+}
+.design-name{
+    color: #1a1a1a;
+}
+.designer-name {
+    display: block;
+    color: #0073e6;
+    padding: 5px 10px 20px 10px;
+}
+.select {
+    border: 2px solid black;
+    margin: 10px;
+    text-align:center;
+    background-color: #8cff1a;
+}
+.archives {
+ border: 2px solid black;
+    margin: 10px;
+    text-align:center;
+    background-color: #8cff1a;
+}
+.next {     
+     color: #1a1a1a;
+     padding: 5px 10px 20px 10px;   
+}
+.viewall{
+color: #1a1a1a;
+}
+.resources {
+    border: 2px solid black;
+    margin: 10px;
+    text-align:center;
+    background-color: #8cff1a;
+}
+.view-css {
+     padding: 5px 10px 20px 10px;   
+}
+.css-resources {
+     padding: 5px 10px 20px 10px;   
+}
+.zen-faq {
+     padding: 5px 10px 20px 10px;   
+}
+.zen-submit {
+     padding: 5px 10px 20px 10px;   
+}
+.zen-translations {   
+     padding: 5px 10px 20px 10px;   
+}
+a:hover {
+color: #00ffff ;
+  text-decoration: none;
+}
+a:visited {
+ color: red; 
+  text-decoration: none;
+
+}
+a:active {
+    color: black;
+}
+
